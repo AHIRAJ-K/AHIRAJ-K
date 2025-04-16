@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey there, I'm Ahiraj!
 
-<!--
-**AHIRAJ-K/AHIRAJ-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Electronics & Communication Engineering student  
+📍 Rajiv Gandhi Institute of Technology (RIT)  
+🛠️ Exploring Embedded Systems | Web Dev | Python | Verilog  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Building personal projects to sharpen my skills
+- Learning Git, GitHub & contributing to open source
+- Exploring Verilog and digital system design
+- Creating my developer portfolio website
+
+---
+
+## 🧠 Tech I'm Learning
+- Languages: C, Python, HTML/CSS, JavaScript
+- Tools: Git & GitHub, VS Code, Figma
+- Platforms: Arduino, Logisim
+- Topics: Digital Electronics, Verilog, Front-End Basics
+
+---
+
+## 📁 Featured Projects
+- 🌐 [Personal Portfolio]
+- 📘 [Learning Log]
+---
+
+## 📫 Let's Connect
+- 🔗 LinkedIn: www.linkedin.com/in/ahiraj-k
+- 📧 Email: Ahiraj.me@gmail.com
+
+---
+
+> "Exploring, experimenting, and sharing my journey as I grow." 🚀  
