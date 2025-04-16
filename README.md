@@ -27,6 +27,11 @@
 - 📘 [Learning Log]
 ---
 
+## 📄 Resume
+- [View My Resume (PDF)]()
+
+---
+
 ## 📫 Let's Connect
 - 🔗 LinkedIn: www.linkedin.com/in/ahiraj-k
 - 📧 Email: Ahiraj.me@gmail.com
