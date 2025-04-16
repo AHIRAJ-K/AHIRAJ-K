@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ahiraj!
 
-🎓Electronics & Communication Engineering student  
+🎓 Electronics & Communication Engineering student  
 📍 Rajiv Gandhi Institute of Technology (RIT)  
 🛠️ Exploring Embedded Systems | Web Dev | Python | Verilog  
 
@@ -15,20 +15,21 @@
 ---
 
 ## 🧠 Tech I'm Learning
-- Languages: C, Python, HTML/CSS, JavaScript
-- Tools: Git & GitHub, VS Code, Figma
-- Platforms: Arduino, Logisim
-- Topics: Digital Electronics, Verilog, Front-End Basics
+- **Languages:** C, Python, HTML/CSS, JavaScript
+- **Tools:** Git & GitHub, VS Code, Figma
+- **Platforms:** Arduino, Logisim
+- **Topics:** Digital Electronics, Verilog, Front-End Basics
 
 ---
 
 ## 📁 Featured Projects
-- 🌐 [Personal Portfolio]
-- 📘 [Learning Log]
+- 🌐 [Personal Portfolio] <!-- Coming Soon -->
+- 📘 [Learning Log] <!-- Coming Soon -->
+
 ---
 
 ## 📄 Resume
-- [View My Resume (PDF)]()
+- [View My Resume (PDF)]() <!-- Under construction -->
 
 ---
 
@@ -38,4 +39,5 @@
 
 ---
 
-> "Exploring, experimenting, and sharing my journey as I grow." 🚀  
+> "Exploring, experimenting, and sharing my journey as I grow." 🚀
+
