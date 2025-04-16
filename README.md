@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Let's Connect
-- 🔗 LinkedIn: www.linkedin.com/in/ahiraj-k
+- 🔗 [LinkedIn](www.linkedin.com/in/ahiraj-k)
 - 📧 Email: Ahiraj.me@gmail.com
 
 ---
