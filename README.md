@@ -24,7 +24,7 @@
 
 ## 📁 Featured Projects
 - 🌐 [Personal Portfolio] <!-- Coming Soon -->
-- 📘 [Learning Log] <!-- Coming Soon -->
+- 📘 [Learning Log](https://github.com/AHIRAJ-K/Learning-log)
 
 ---
 
