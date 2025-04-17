@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Tech I'm Learning
+## 💻 Tech I'm Learning
 - **Languages:** C, Python, HTML/CSS, JavaScript
 - **Tools:** Git & GitHub, VS Code, Figma
 - **Platforms:** Arduino, Logisim
