@@ -23,7 +23,7 @@
 ---
 
 ## 📁 Featured Projects
-- 🌐 [Personal Portfolio] <!-- Coming Soon -->
+- 🌐 [Personal Portfolio](https://ahiraj.vercel.app/)
 - 📘 [Learning Log](https://github.com/AHIRAJ-K/Learning-log)
 
 ---
