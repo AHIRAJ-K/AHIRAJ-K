@@ -29,7 +29,7 @@
 ---
 
 ## 📄 Resume
-- [View My Resume (PDF)]() <!-- Under construction -->
+- [View My Resume (PDF)](https://ahiraj-k.github.io/resume/Ahiraj-Resume.pdf)
 
 ---
 
