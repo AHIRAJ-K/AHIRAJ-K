@@ -24,7 +24,7 @@
 
 ## 📁 Featured Projects
 - 🌐 [Personal Portfolio](https://ahiraj.xyz/)
-- 📘 [Learning Log](https://github.com/AHIRAJ-K/Learning-log)
+- 📘 [Digital Lock Using Verilog](https://github.com/AHIRAJ-K/digital-lock-verilog)
 
 ---
 
