@@ -2,7 +2,7 @@
 
 🎓 Electronics & Communication Engineering student  
 📍 Rajiv Gandhi Institute of Technology (RIT)  
-🛠️ Exploring Embedded Systems | Web Dev | Python | Verilog  
+🛠️ Exploring Embedded Systems | Web Dev | VLSI | Verilog  
 
 ---
 
