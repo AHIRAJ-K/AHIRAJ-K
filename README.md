@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 What I'm Working On
-- Uploading daily C programming exercises (176 exercises so far) to GitHub—aiming for consistency (human breaks included).
-- Organizing and expanding my Git & GitHub study-notes repository.
+- Uploading daily C programming exercises to GitHub—aiming for consistency.
+- Organizing and expanding my Git & GitHub.
 - Contributing to open-source projects to sharpen collaboration skills.
 - Exploring Verilog for advanced digital system design and VLSI fundamentals.
 - Enhancing my front-end development workflow with Figma, Photoshop, and modern web technologies.
