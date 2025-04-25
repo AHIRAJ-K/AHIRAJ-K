@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ahiraj!
 
-🎓 Electronics & Communication Engineering student  
+🎓 Electronics & Communication Engineering Undergraduate  
 📍 Rajiv Gandhi Institute of Technology (RIT)  
 🛠️ Exploring Embedded Systems | Web Dev | VLSI | Verilog  
 
