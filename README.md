@@ -7,10 +7,11 @@
 ---
 
 ## 🚀 What I'm Working On
-- Building personal projects to sharpen my skills
-- Learning Git, GitHub & contributing to open source
-- Exploring Verilog and digital system design
-- Creating my developer portfolio website
+- Uploading daily C programming exercises (176 exercises so far) to GitHub—aiming for consistency (human breaks included).
+- Organizing and expanding my Git & GitHub study-notes repository.
+- Contributing to open-source projects to sharpen collaboration skills.
+- Exploring Verilog for advanced digital system design and VLSI fundamentals.
+- Enhancing my front-end development workflow with Figma, Photoshop, and modern web technologies.
 
 ---
 
