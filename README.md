@@ -15,10 +15,9 @@
 ---
 
 ## 💻 Tech I'm Learning
-- **Languages:** C, Python, HTML/CSS, JavaScript
-- **Tools:** Git & GitHub, VS Code, Figma
-- **Platforms:** Arduino, Logisim
-- **Topics:** Digital Electronics, Verilog, Front-End Basics
+- **Languages:** C/C++, Python, MATLAB, Embedded C, HTML, CSS, Verilog
+- **Tools:** Git, GitHub, VS Code, Arduino IDE, Keil uVision, TINA, Xilinx Vivado, Proteus, Tinkercad, Photoshop, Illustrator, Figma
+- **Topics:** Digital Electronics,Front-End Basics
 
 ---
 
