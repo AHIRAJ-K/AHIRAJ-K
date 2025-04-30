@@ -16,7 +16,7 @@
 ---
 
 ## 💻 Tech I'm Learning
-- **Languages:** C/C++, Python, MATLAB, Embedded C, HTML, CSS, Verilog
+- **Languages:** C/C++, Python, Assembly, Embedded C, HTML, CSS, Verilog
 - **Tools:** Git, GitHub, VS Code, Arduino IDE, Keil uVision, TINA, Xilinx Vivado, Proteus, Tinkercad, Photoshop, Illustrator, Figma
 - **Topics:** Digital Electronics,Front-End Basics
 
